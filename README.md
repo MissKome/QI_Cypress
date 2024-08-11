@@ -15,6 +15,8 @@ Everything about cypress.
 
 - [Cypress-Cucumber-Preprocessor v.18.0.5](https://www.npmjs.com/package/@badeball/cypress-cucumber-preprocessor/)
 
+- [Multiple Cucumber HTML Reporter v3.7.0](https://www.npmjs.com/package/multiple-cucumber-html-reporter)
+
 ## How To Setup
 1.  Clone this repository.
 2.  Open a terminal in the project directory.
